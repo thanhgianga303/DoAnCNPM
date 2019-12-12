@@ -1,0 +1,60 @@
+@page "{id:int}"
+@model DeleteModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+<form method="post">
+        <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Sửa phương tiện</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID phương tiện:</label>
+                <input type="text" class="form-control" asp-for="PhuongTien.PhuongTienID">
+                <span asp-validation-for="PhuongTien.PhuongTienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID thể loại phương tiện:</label>
+                <input type="text" class="form-control" asp-for="PhuongTien.TheLoaiPhuongTienID">
+                <span asp-validation-for="PhuongTien.TheLoaiPhuongTienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Cà vẹt xe:</label>
+                <input type="text" class="form-control" asp-for="PhuongTien.CaVet">
+                <span asp-validation-for="PhuongTien.CaVet"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Biển kiểm soát:</label>
+                <input type="text" class="form-control" asp-for="PhuongTien.BKS">
+                <span asp-validation-for="PhuongTien.BKS"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" asp-route-id="PhuongTien.PhuongTienID" value="Xóa"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

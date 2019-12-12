@@ -1,0 +1,399 @@
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.exe
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.deps.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.dev.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.Manifest.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.xml
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.input.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.output.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorCoreGenerate.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.Manifest.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.xml
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.exe
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.deps.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.dev.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.input.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.output.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorCoreGenerate.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\DanhSachBienBan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\DanhSachBienBan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\DanhSachBienBan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\FrontPage\HienThiDieuLuat\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\FrontPage\HomePage\index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.exe
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.deps.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.runtimeconfig.dev.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.Manifest.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\staticwebassets\RazorSample.StaticWebAssets.xml
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.input.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.TagHelpers.output.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorCoreGenerate.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBangLai\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCanBo\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLCapBac\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChucVu\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLChuyenDe\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDieuLuat\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLDoi\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLKhuVuc\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLNguoiDieuKhien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLPhuongTien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLQuyen\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTaiKhoan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTheLoaiPhuongTien\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLTuyenDuong\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\FrontPage\HienThiDieuLuat\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\FrontPage\HomePage\index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.RazorTargetAssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.Views.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\RazorSample.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Login\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Logout\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\QLChiTietBienBan\Index.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\QLChiTietBienBan\Create.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\QLChiTietBienBan\Delete.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\QLBienBan\QLChiTietBienBan\Edit.cshtml.g.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\RazorSample\obj\Debug\netcoreapp3.0\Razor\Pages\FrontPage\HomePage\DSChiTietBienBan\Index.cshtml.g.cs

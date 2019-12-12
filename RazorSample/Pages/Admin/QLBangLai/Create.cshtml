@@ -1,0 +1,72 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+ViewData["Title"] = "Create cấp bậc";
+}
+
+<form method="post">
+    <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Sửa bằng lái</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID bằng lái:</label>
+                <input type="number" class="form-control" asp-for="BangLai.BangLaiID">
+                <span asp-validation-for="BangLai.BangLaiID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID người điều khiển:</label>
+                <input type="number" class="form-control" asp-for="BangLai.NguoiDieuKhienID">
+                <span asp-validation-for="BangLai.NguoiDieuKhienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã bằng lái:</label>
+                <input type="text" class="form-control" asp-for="BangLai.MaBangLai">
+                <span asp-validation-for="BangLai.MaBangLai"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Ngày cấp:</label>
+                <input type="text" class="form-control" asp-for="BangLai.NgayCap">
+                <span asp-validation-for="BangLai.NgayCap"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Hạn sử dụng:</label>
+                <input type="text" class="form-control" asp-for="BangLai.HanSuDung">
+                <span asp-validation-for="BangLai.HanSuDung"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

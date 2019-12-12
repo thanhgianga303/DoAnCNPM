@@ -1,0 +1,62 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+ViewData["Title"] = "Create cấp bậc";
+}
+
+<form method="post">
+<div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Tạo điều luật mới</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <input type="number" class="form-control" asp-for="DieuLuat.DieuLuatID">
+                <span asp-validation-for="DieuLuat.DieuLuatID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã điều luật:</label>
+                <input type="text" class="form-control" asp-for="DieuLuat.MaDieuLuat">
+                <span asp-validation-for="DieuLuat.MaDieuLuat"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên điều luật:</label>
+                <input type="text" class="form-control" asp-for="DieuLuat.Ten">
+                <span asp-validation-for="DieuLuat.Ten"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tiền phạt:</label>
+                <input type="text" class="form-control" asp-for="DieuLuat.TienPhat">
+                <span asp-validation-for="DieuLuat.TienPhat"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

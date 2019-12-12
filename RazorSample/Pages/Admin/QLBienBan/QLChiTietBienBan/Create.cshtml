@@ -1,0 +1,60 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+<form method="post">
+    <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Thêm chi tiết biên bản mới</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID biên bản:</label>
+                <input type="number" class="form-control" asp-for="ChiTietBienBan.BienBanID">
+                <span asp-validation-for="ChiTietBienBan.BienBanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID điều luật:</label>
+                <input type="number" class="form-control" asp-for="ChiTietBienBan.DieuLuatID">
+                <span asp-validation-for="ChiTietBienBan.DieuLuatID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID chi tiết biên bản:</label>
+                <input type="number" class="form-control" asp-for="ChiTietBienBan.ChiTietBienBanID">
+                <span asp-validation-for="ChiTietBienBan.ChiTietBienBanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã chi tiết biên bản:</label>
+                <input type="text" class="form-control" asp-for="ChiTietBienBan.MaChiTietBienBan">
+                <span asp-validation-for="ChiTietBienBan.MaChiTietBienBan"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" asp-for="ChiTietBienBan.BienBanID" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

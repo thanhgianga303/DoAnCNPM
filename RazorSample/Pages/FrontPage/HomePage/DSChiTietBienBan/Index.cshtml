@@ -1,0 +1,70 @@
+@page
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+<section id="banner">
+<div class="inner">
+    <header>
+        <h2>Tìm kiếm biên bản VPGT</h2>
+    </header>
+</div>
+</section>
+<article id="main">
+<form method="post">
+    <div class="vipham">
+        <div class="form-row" style="padding:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <h1>Thông tin chi tiết của biên bản @Model.ChiTietBienBanVM.DanhSachChiTietBienBan[0].BienBanID</h1>
+            </div>
+            <div class="col-md-3"></div>
+    </div>
+    <table class="table-header">
+        <tr>
+            <!-- Theo độ rộng của table content -->
+            <th style="width: 20%">ID biên bản<i class="fa"></i></th>
+            <th style="width: 20%">ID chi tiết biên bản<i class="fa"></i></th>
+            <th style="width: 20%">Mã chi tiết biên bản<i class="fa"></i></th>
+            <th style="width: 20%">Tên điều luật<i class="fa"></i></th>
+            <th style="width: 20%">Tiền phạt<i class="fa"></i></th>
+        </tr>
+    </table>
+    <div class="table-content">
+        <table class="table-outline">
+            @foreach (var ctbienban in Model.ChiTietBienBanVM.DanhSachChiTietBienBan)
+            {
+            <tr>
+            <td style="width: 20%">@ctbienban.BienBanID<i class="fa"></i></td>
+            <td style="width: 20%">@ctbienban.ChiTietBienBanID<i class="fa"></i></td>
+            <td style="width: 20%">@ctbienban.MaChiTietBienBan<i class="fa"></i></td>
+            <td style="width: 20%">@ctbienban.DieuLuat.Ten<i class="fa"></i></td>
+            <td style="width: 20%">@ctbienban.DieuLuat.TienPhat<i class="fa"></i></td>
+            </tr>
+            }
+        </table>
+        @{
+    var preDisabled = !Model.ChiTietBienBanVM.DanhSachChiTietBienBan.HasPrevious ? "disabled" : "";
+    var nextDisabled = !Model.ChiTietBienBanVM.DanhSachChiTietBienBan.HasNext ? "disabled" : "";
+}
+<div class="container">
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.ChiTietBienBanVM.DanhSachChiTietBienBan.PageIndex - 1)" 
+        class="btn btn-default @preDisabled">Trước</a>
+    @for(int i=1;i<=@Model.ChiTietBienBanVM.DanhSachChiTietBienBan.TotalPages;i++)
+    {
+        <a  asp-page="Index" 
+        asp-route-pageIndex="@i" 
+        
+        class="btn btn-default">@i</a>
+    }
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.ChiTietBienBanVM.DanhSachChiTietBienBan.PageIndex + 1)" 
+        class="btn btn-default @nextDisabled">Sau</a>
+</div>
+        </div>
+        </div>
+ </form>
+
+
+        

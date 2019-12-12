@@ -1,0 +1,91 @@
+@page "{id:int}"
+@model DeleteModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<h2>Delete Movie</h2>
+
+<form method="post">
+        <div class="form-group">
+<div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Xóa biên bản</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <input type="hidden" class="form-control" asp-for="BienBan.BienBanID">
+                <span asp-validation-for="BienBan.BienBanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID tuyến đường:</label>
+                <input type="text" class="form-control" asp-for="BienBan.TuyenDuongID">
+                <span asp-validation-for="BienBan.TuyenDuongID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID người điều khiển:</label>
+                <input type="text" class="form-control" asp-for="BienBan.NguoiDieuKhienID">
+                <span asp-validation-for="BienBan.NguoiDieuKhienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID phương tiện:</label>
+                <input type="text" class="form-control" asp-for="BienBan.PhuongTienID">
+                <span asp-validation-for="BienBan.PhuongTienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã biên bản:</label>
+                <input type="text" class="form-control" asp-for="BienBan.MaBienBan">
+                <span asp-validation-for="BienBan.MaBienBan"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Thời gian:</label>
+                <input type="text" class="form-control" asp-for="BienBan.ThoiGian">
+                <span asp-validation-for="BienBan.ThoiGian"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tiền phạt:</label>
+                <input type="text" class="form-control" asp-for="BienBan.TienPhat">
+                <span asp-validation-for="BienBan.TienPhat"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" asp-route-id="BienBan.BienBanID" value="Xóa"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

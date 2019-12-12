@@ -1,0 +1,93 @@
+@page
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+<section id="banner">
+    <div class="inner">
+        <header>
+            <h2>Tìm kiếm điều luật</h2>
+        </header>
+        <form method="get">
+            <div class="form-group">
+                <label for="sel1">Lựa chọn:</label><br>
+                <select class="form-control" asp-for="Genre" id="sel1" style="margin: auto; width:200px;height:40px">
+                    <option value="All">Tất cả</option>
+                    <option value="MaDieuLuat">Mã điều luật</option>
+                    <option value="TenDieuLuat">Tền điều luật</option>
+                    <option value="TienPhat">Tiền phạt</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sel1">Nhập thông tin: </label><br>
+                <input type="text" asp-for="SearchString"/>
+            </div>
+            <footer>
+                <ul class="buttons stacked">
+                    <input type="submit" value="Tìm kiếm"/>
+                </ul>
+            </footer>
+        </form>
+    </div>
+</section>
+<article id="main">
+    <header class="special container">
+    <span class="icon solid fa-chart-bar"></span>
+    <h2>Danh Sách các điều luật</h2>
+    <form method="post">
+        <div class="vipham">
+            <table class="table-header">
+            <tr>
+                <!-- Theo độ rộng của table content -->
+                <th style="width: 10%;font-weight:500">ID điều luật<i class="fa"></i></th>
+                <th style="width: 25%;font-weight:500">Mã điều luật<i class="fa"></i></th>
+                <th style="width: 40%;font-weight:500">Tên điều luật<i class="fa"></i></th>
+                <th style="width: 25%;font-weight:500">Tiền phạt<i class="fa"></i></th>
+            </tr>
+            </table>
+            <div class="table-content">
+                <table class="table-outline">
+                    @foreach (var dieuluat in Model.DieuLuatVM.DanhSachDieuLuat)
+                    {
+                    <tr>
+                    <td style="width: 10%">@dieuluat.DieuLuatID<i class="fa"></i></td>
+                    <td style="width: 25%">@dieuluat.MaDieuLuat<i class="fa"></i></td>
+                    <td style="width: 40%">@dieuluat.Ten<i class="fa"></i></td>
+                    <td style="width: 25%">@dieuluat.TienPhat<i class="fa"></i></td>
+                    </tr>
+                    }
+                </table>
+                @{
+                var preDisabled = !Model.DieuLuatVM.DanhSachDieuLuat.HasPrevious ? "disabled" : "";
+                var nextDisabled = !Model.DieuLuatVM.DanhSachDieuLuat.HasNext ? "disabled" : "";
+                }
+                <div class="container">
+                    <a  asp-page="Index" 
+                    asp-route-pageIndex="@(Model.DieuLuatVM.DanhSachDieuLuat.PageIndex - 1)" 
+                    asp-route-searchString="@Model.SearchString"
+                    asp-route-genre="@Model.Genre"
+                    class="btn btn-default @preDisabled">Trước</a>
+                    @for(int i=1;i<=@Model.DieuLuatVM.DanhSachDieuLuat.TotalPages;i++)
+                    {
+                    <a  asp-page="Index" 
+                    asp-route-pageIndex="@i" 
+                    asp-route-searchString="@Model.SearchString"
+                    asp-route-genre="@Model.Genre"
+                    class="btn btn-default">@i</a>
+                    }
+                    <a  asp-page="Index" 
+                    asp-route-pageIndex="@(Model.DieuLuatVM.DanhSachDieuLuat.PageIndex + 1)" 
+                    asp-route-searchString="@Model.SearchString"
+                    asp-route-genre="@Model.Genre"
+                    class="btn btn-default @nextDisabled">Sau</a>
+                </div>
+            </div>
+        </div>
+    </form>
+ </table>
+</header>
+</article>
+ 
+
+
+        

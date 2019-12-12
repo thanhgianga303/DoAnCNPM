@@ -1,0 +1,73 @@
+@page "{id:int}"
+@model DeleteModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<h2>Delete Movie</h2>
+
+<form method="post">
+        <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Xóa chuyên đề</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <input type="hidden" class="form-control" asp-for="ChuyenDe.ChuyenDeID">
+                <span asp-validation-for="ChuyenDe.ChuyenDeID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã cấp bậc:</label>
+                <input type="text" class="form-control" asp-for="ChuyenDe.MaChuyenDe">
+                <span asp-validation-for="ChuyenDe.MaChuyenDe"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Khu vực:</label>
+                <input type="text" class="form-control" asp-for="ChuyenDe.KhuVuc">
+                <span asp-validation-for="ChuyenDe.KhuVuc"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Ngày bắt đầu:</label>
+                <input type="text" class="form-control" asp-for="ChuyenDe.NgayBatDau">
+                <span asp-validation-for="ChuyenDe.NgayBatDau"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Ngày kết thúc:</label>
+                <input type="text" class="form-control" asp-for="ChuyenDe.NgayKetThuc">
+                <span asp-validation-for="ChuyenDe.NgayKetThuc"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" asp-route-id="ChuyenDe.ChuyenDeID" value="Xóa"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

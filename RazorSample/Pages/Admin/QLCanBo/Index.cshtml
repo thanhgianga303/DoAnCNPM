@@ -1,0 +1,101 @@
+@page
+@using Microsoft.AspNetCore.Http
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    var session=@HttpContext.Session.GetString("Role");
+    if(session=="1")
+    {
+        <h1>Bạn không đủ quyền để truy cập</h1>
+    }
+    else
+    {
+<h1>Quản lý cán bộ</h1>
+<form method="get">
+                <p>
+                    Lựa chọn: 
+                    <select asp-for="Genre">
+                        <option value="All">Tất cả</option>
+                        <option value="MaCanBo">Mã cán bộ</option>
+                        <option value="Ten">Tên cán bộ</option>   
+                    </select>
+                    Nhập thông tin: 
+                    <input type="text"  asp-for="SearchString"/>
+                    <input type="submit" value="Tìm kiếm"/>
+                </p>
+</form>
+<form method="post">
+    <div class="vipham">
+        <div class="form-row" style="padding:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <a asp-page="Create" class="btn btn-info" style="color:black" >Tạo mới</a>
+            </div>
+            <div class="col-md-3"></div>
+    </div>
+    <table class="table-header">
+        <tr>
+            <!-- Theo độ rộng của table content -->
+            <th style="width: 10%">ID cán bộ<i class="fa"></i></th>
+            <th style="width: 10%">ID chức vụ<i class="fa"></i></th>
+            <th style="width: 10%">ID đội<i class="fa"></i></th>
+            <th style="width: 10%">ID tài khoản<i class="fa"></i></th>
+            <th style="width: 10%">ID cấp bậc<i class="fa"></i></th>
+            <th style="width: 10%">Mã cán bộ<i class="fa"></i></th>
+            <th style="width: 25%">Tên cán bộ<i class="fa"></i></th>
+            <th style="width: 15%">Thao Tác</th>
+        </tr>
+    </table>
+    <div class="table-content">
+        <table class="table-outline">
+            @foreach (var canbo in Model.CanBoVM.DanhSachCanBo)
+            {
+            <tr>
+            <td style="width: 10%">@canbo.CanBoID<i class="fa"></i></td>
+            <td style="width: 10%">@canbo.ChucVuID<i class="fa"></i></td>
+            <td style="width: 10%">@canbo.DoiID<i class="fa"></i></td>
+            <td style="width: 10%">@canbo.TaiKhoanID<i class="fa"></i></td>
+            <td style="width: 10%">@canbo.CapBacID<i class="fa"></i></td>
+            <td style="width: 10%">@canbo.MaCanBo<i class="fa"></i></td>
+            <td style="width: 25%">@canbo.Ten<i class="fa"></i></td>
+            <td style="width: 15%">
+                <a asp-page="Delete" class="btn btn-info" asp-route-id="@canbo.CanBoID">Delete</a>
+                <a asp-page="Edit" class="btn btn-info" asp-route-id="@canbo.CanBoID">Edit</a>
+            </td>
+            </tr>
+            }
+        </table>
+        @{
+    var preDisabled = !Model.CanBoVM.DanhSachCanBo.HasPrevious ? "disabled" : "";
+    var nextDisabled = !Model.CanBoVM.DanhSachCanBo.HasNext ? "disabled" : "";
+}
+<div class="container">
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.CanBoVM.DanhSachCanBo.PageIndex - 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @preDisabled">Trước</a>
+    @for(int i=1;i<=@Model.CanBoVM.DanhSachCanBo.TotalPages;i++)
+    {
+        <a  asp-page="Index" 
+        asp-route-pageIndex="@i" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default">@i</a>
+    }
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.CanBoVM.DanhSachCanBo.PageIndex + 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @nextDisabled">Sau</a>
+</div>
+        </div>
+        </div>
+ </form>
+    }
+    }
+
+
+        

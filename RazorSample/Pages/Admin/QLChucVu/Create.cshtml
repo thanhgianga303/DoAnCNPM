@@ -1,0 +1,53 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+ViewData["Title"] = "Create cấp bậc";
+}
+<form method="post">
+<div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Tạo mới chức vụ</h2></label>
+            </div> 
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID chức vụ:</label>
+                <input type="number" class="form-control" asp-for="ChucVu.ChucVuID">
+                <span asp-validation-for="ChucVu.ChucVuID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã chức vụ:</label>
+                <input type="text" class="form-control" asp-for="ChucVu.MaChucVu">
+                <span asp-validation-for="ChucVu.MaChucVu"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên chức vụ:</label>
+                <input type="text" class="form-control" asp-for="ChucVu.TenChucVu">
+                <span asp-validation-for="ChucVu.TenChucVu"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

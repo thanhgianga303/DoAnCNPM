@@ -1,0 +1,320 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    /* min-width: 1024px; */
+    background-color: #ffff;
+    font-size: 16px;
+}
+
+hr {
+    color: rgb(95, 95, 95);
+    background-color: rgb(95, 95, 95);
+    border-top: 2px solid rgb(95, 95, 95);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+    color: #222;
+}
+
+
+/* header */
+
+header {
+    z-index: 10;
+    width: 100%;
+    /* position: sticky; */
+    padding: 20px 10px;
+    background-color: #4a7b8d;
+    border-bottom: 1px solid #23282c;
+}
+
+header h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.sidebar {
+    float: left;
+    width: 170px;
+}
+
+.sidebar .nav {
+    list-style-type: none;
+    background-color: #ffff;
+    border-right: 2px solid #e5e5e5;
+    height: auto;
+    overflow: scroll;
+}
+
+.sidebar hr {
+    border-color: #e5e5e5;
+}
+
+.sidebar .nav-title {
+    padding: 1.1rem 1rem;
+    font-size: 1.5em;
+    font-weight: 700;
+    width: 170px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+.sidebar .nav-item {
+    position: relative;
+    margin: 0;
+    transition: background .3s ease-in-out;
+    width: 170px;
+}
+
+.sidebar .nav-link {
+    display: block;
+    padding: 2px 2px!important;
+    color: #73818f;
+    text-decoration: none;
+    background: 0 0;
+    cursor: pointer;
+}
+
+.nav-link {
+    padding: 2px 2px!important;
+}
+
+.sidebar .nav-link.active,
+.sidebar .nav-link.active i {
+    background-color: #20a8d8;
+    color: #fff;
+}
+
+.btn:hover {
+    color: #fff;
+}
+
+.sidebar .nav-link:hover:not(.active),
+.sidebar .nav-link:hover:not(.active) i {
+    background-color: #4a7b8d;
+    color: #fff;
+}
+
+.sidebar .nav-link i {
+    display: inline-block;
+    width: 1.09375em;
+    margin: 0 .5rem 0 0;
+    font-size: 1em;
+    color: #73818f;
+    text-align: center;
+}
+
+.main {
+    float: left;
+    width: calc(100% - 175px);
+    /* 150px la width cua aside */
+}
+
+.main>div {
+    /* Mặc định ẩn mọi thứ trong main */
+    display: none;
+}
+
+
+/*----------table----------*/
+
+.table-outline {
+    width: 100%;
+    border: 1px solid #23282c;
+}
+
+
+/* phần chứa header (th) */
+
+.table-header {
+    width: 100%;
+}
+
+.table-header th {
+    color: #e4e7ea;
+    background-color: #3e464d;
+    border-color: #23282c;
+}
+
+
+/*.table-header th {
+    cursor: pointer;
+}
+
+.table-header th i {
+    //Ẩn icon sort
+    transform: scale(0);
+    transition-duration: .2s;
+}
+
+.table-header th:hover i {
+    transform: scale(1)
+}*/
+
+.table-header th,
+.table-content td {
+    padding: .75rem;
+    text-align: center;
+    vertical-align: middle;
+    border-top: 1px solid #23282c;
+}
+
+
+/* phần chứa nội dung  */
+
+.table-content {
+    min-height: 200px;
+    max-height: 550px;
+    overflow: auto;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.table-content tr:nth-of-type(even) {
+    background-color: #e6e6e6;
+}
+
+.table-content td {
+    position: relative;
+    color: #000000;
+}
+
+
+/* Link chi tiet san pham */
+
+.table-content td a {
+    color: black;
+}
+
+.table-content td a:hover {
+    text-decoration: none;
+}
+
+
+/* Hành động */
+
+.table-content td i {
+    padding: .3em;
+    cursor: pointer;
+}
+
+.table-content td i.fa-wrench:hover {
+    color: #63c2de
+}
+
+.table-content td i.fa-trash:hover {
+    color: #f86c6b
+}
+
+.table-content td i.fa-check:hover {
+    color: #5ce457d8
+}
+
+.table-content td i.fa-remove:hover {
+    color: #f86c6b
+}
+
+
+/*  phần footer table  */
+
+.table-footer {
+    background-color: #3e464d;
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #23282c;
+}
+
+.table-footer input,
+.table-footer button,
+.table-footer select {
+    padding: 5px 10px;
+    border: 3px solid transparent;
+    background-color: #cccece;
+}
+
+
+/* Nút bấm ở footer */
+
+.table-footer button {
+    cursor: pointer;
+    background-color: #23282c;
+    color: #e4e7ea;
+    transition-duration: .2s;
+}
+
+.table-footer button:hover {
+    background-color: #7a879486;
+    border-color: #73818f;
+}
+
+
+/* ================== Những table thêm sửa sẽ có dạng overlay -> mặc định ẩn  ====================== */
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 14;
+    transition: .2s ease;
+    transform: scale(0);
+    background-color: #020202d8;
+}
+
+.overlayTable {
+    margin: 50px auto;
+    width: auto;
+    background-color: #23282c;
+}
+
+.overlayTable td:first-child {
+    text-align: right;
+}
+
+.overlayTable input {
+    padding: 4px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e7e7e7;
+}
+
+.overlayTable input[type="file"] {
+    background-color: transparent;
+}
+
+.close {
+    /* nút tắt form */
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    font-size: 3rem;
+    width: 1em;
+    height: 1em;
+    line-height: 1em;
+    text-align: center;
+    color: #aaa;
+    cursor: pointer;
+    transition: .2s ease;
+}
+
+.close:hover {
+    color: #fff;
+    background-color: #f33;
+    border-radius: 50%;
+}

@@ -1,0 +1,59 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+<form method="post">
+    <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Tạo mới tuyến đường</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID tuyến đường:</label>
+                <input type="number" class="form-control" asp-for="TuyenDuong.TuyenDuongID">
+                <span asp-validation-for="TuyenDuong.TuyenDuongID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID khu vực:</label>
+                <input type="number" class="form-control" asp-for="TuyenDuong.KhuVucID">
+                <span asp-validation-for="TuyenDuong.KhuVucID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã tuyến đường:</label>
+                <input type="text" class="form-control" asp-for="TuyenDuong.MaTuyenDuong">
+                <span asp-validation-for="TuyenDuong.MaTuyenDuong"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên tuyến đường:</label>
+                <input type="text" class="form-control" asp-for="TuyenDuong.TenTuyenDuong">
+                <span asp-validation-for="TuyenDuong.TenTuyenDuong"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

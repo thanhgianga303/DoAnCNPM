@@ -1,0 +1,89 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+ViewData["Title"] = "Create cấp bậc";
+}
+
+<form method="post">
+       <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Xóa cán bộ</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID cán bộ:</label>
+                <input type="text" class="form-control" asp-for="CanBo.CanBoID">
+                <span asp-validation-for="CanBo.CanBoID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID chức vụ:</label>
+                <input type="text" class="form-control" asp-for="CanBo.ChucVuID">
+                <span asp-validation-for="CanBo.ChucVuID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID đội :</label>
+                <input type="text" class="form-control" asp-for="CanBo.DoiID">
+                <span asp-validation-for="CanBo.DoiID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID tài khoản:</label>
+                <input type="text" class="form-control" asp-for="CanBo.TaiKhoanID">
+                <span asp-validation-for="CanBo.TaiKhoanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID cấp bậc:</label>
+                <input type="text" class="form-control" asp-for="CanBo.CapBacID">
+                <span asp-validation-for="CanBo.CapBacID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID tài khoản:</label>
+                <input type="text" class="form-control" asp-for="CanBo.MaCanBo">
+                <span asp-validation-for="CanBo.MaCanBo"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên cán bộ:</label>
+                <input type="text" class="form-control" asp-for="CanBo.Ten">
+                <span asp-validation-for="CanBo.Ten"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info"  value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

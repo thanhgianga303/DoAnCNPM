@@ -1,0 +1,27 @@
+@page
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_LayoutLogin.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12" style="text-align:center">
+            <form method="post"> 
+            <div class="form-group" style="margin-top:20px">
+                <label for="sel1">Tài khoản: </label>
+                <input type="text" size="50px" asp-for="username"/>
+            </div>
+            <div class="form-group" style="margin-top:20px">
+                <label for="sel1">Mật khẩu: </label>
+                <input type="password" size="50px" asp-for="password"/>
+            </div>
+            <div class="form-group" style="margin-top:20px">
+                <input type="submit" class="btn btn-info" value="Đăng nhập"/>
+            </div>
+            <div class="form-group" style="margin-top:20px">
+                <label for="sel1" style="color:red">@ViewData["Error"]</label>
+            </div>
+        </form>
+        </div>
+    </div>
+</div>

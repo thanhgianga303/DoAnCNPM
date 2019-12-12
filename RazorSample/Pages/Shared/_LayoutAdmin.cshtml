@@ -1,0 +1,64 @@
+@using Microsoft.AspNetCore.Http
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous"/>
+    <link rel="stylesheet" type="text/css" href="~/Assets/Admin/admin.css"/>
+	<link rel="stylesheet" type="text/css" href="~/Assets/User/assets/css/bootstrap.min.css">
+</head>
+    <header>
+        <div class="row">
+            <div class="col-md-12"><h2>Admin - Hệ Thống Quản Lý Vi Phạm Giao Thông</h2></div>
+        </div>
+        <div class="row">
+            <div class="col-md-10"></div>
+            <div class="col-md-2"><a style="color:white" asp-page="/Admin/Logout/Index"><h2>@Context.Session.GetString("Username")</h2></a></div>
+         </div>
+    </header>
+
+<body>
+    <div class="scrollbar scrollbar-primary">
+  <div class="force-overflow">
+    <aside class="sidebar">
+        <ul class="nav" style="display:block;overflow-y:auto">
+            @{
+            if(@Context.Session.GetString("Role").Equals("1"))
+                {
+                <li class="nav-title">MENU</li>
+                <li class="nav-item"><a class="nav-link active" asp-page="/Admin/Index"><i class="fa fa-home"></i> Trang chủ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLQuyen/Index"><i class="fa fa-bar-chart-o"></i>Quyền</a></li>
+                }
+            else if(@Context.Session.GetString("Role").Equals("2"))
+            {
+                <li class="nav-title">MENU</li>
+                <li class="nav-item"><a class="nav-link active" asp-page="/Admin/Index"><i class="fa fa-home"></i> Trang chủ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLDoi/Index"><i class="fa fa-bar-chart-o"></i>Đội</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLCanBo/Index"><i class="fa fa-bar-chart-o"></i>Cán bộ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLTaiKhoan/Index"><i class="fa fa-bar-chart-o"></i>Tài khoản</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLChuyenDe/Index"><i class="fa fa-bar-chart-o"></i>Chuyên đề</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLChucVu/Index"><i class="fa fa-bar-chart-o"></i>Chức vụ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLDieuLuat/Index"><i class="fa fa-bar-chart-o"></i>Điều luật</a></li>
+            }
+            else if(@Context.Session.GetString("Role").Equals("3"))
+                {
+                <li class="nav-title">MENU</li>
+                <li class="nav-item"><a class="nav-link active" asp-page="/Admin/Index"><i class="fa fa-home"></i> Trang chủ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLBienBan/Index"><i class="fa fa-address-card-o"></i>Biên bản</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLPhuongTien/Index"><i class="fa fa-file-text-o"></i>Phương tiện</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLTheLoaiPhuongTien/Index"><i class="fa fa-bar-chart-o"></i>Loại phương tiện</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLBangLai/Index"><i class="fa fa-book"></i>Bằng lái</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLNguoiDieuKhien/Index"><i class="fa fa-bar-chart-o"></i>Người điều khiển</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLTuyenDuong/Index"><i class="fa fa-bar-chart-o"></i>Tuyến đường</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLKhuVuc/Index"><i class="fa fa-bar-chart-o"></i>Khu vực</a></li>
+                <li class="nav-item"><a class="nav-link" asp-page="/Admin/QLCapBac/Index"><i class="fa fa-bar-chart-o"></i>Cấp bậc</a></li>
+                }
+            <hr>
+            }
+        </ul>
+    </aside>
+    </div>
+</div>
+    <div class="main">
+            @RenderBody()
+    </div>
+</body>
+<script type="text/javascript" src="~/Assets/Admin/admin.js"></script>
+<script type="text/javascript" src="~/Assets/User/assets/js/bootstrap.min.js"></script>

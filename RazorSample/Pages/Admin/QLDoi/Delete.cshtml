@@ -1,0 +1,65 @@
+@page "{id:int}"
+@model DeleteModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<h2>Delete Movie</h2>
+
+<form method="post">
+        <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Xóa đội</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID Đội:</label>
+                <input type="text" class="form-control" asp-for="Doi.DoiID">
+                <span asp-validation-for="Doi.DoiID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID chuyên đề:</label>
+                <input type="text" class="form-control" asp-for="Doi.ChuyenDeID">
+                <span asp-validation-for="Doi.ChuyenDeID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã đội:</label>
+                <input type="text" class="form-control" asp-for="Doi.MaDoi">
+                <span asp-validation-for="Doi.MaDoi"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên đội:</label>
+                <input type="text" class="form-control" asp-for="Doi.TenDoi">
+                <span asp-validation-for="Doi.TenDoi"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" asp-route-id="Doi.DoiID" value="Xóa"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

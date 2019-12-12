@@ -1,0 +1,94 @@
+@page
+@using Microsoft.AspNetCore.Http
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+@{
+    var session=@HttpContext.Session.GetString("Role");
+    if(session=="1")
+    {
+        <h1>Bạn không đủ quyền để truy cập</h1>
+    }
+    else
+    {
+        <h1>Quản lý bằng lái</h1>
+        <form method="get">
+                <p>
+                    Lựa chọn: 
+                    <select asp-for="Genre">
+                        <option value="MaBangLai">Mã bằng lái</option>   
+                    </select>
+                    Nhập thông tin: 
+                    <input type="text"  asp-for="SearchString"/>
+                    <input type="submit" value="Tìm kiếm"/>
+                </p>
+</form>
+<form method="post">
+    <div class="vipham">
+        <div class="form-row" style="padding:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <a asp-page="Create" class="btn btn-info" style="color:black" >Tạo mới</a>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    <table class="table-header">
+        <tr>
+            <!-- Theo độ rộng của table content -->
+            <th style="width: 15%">ID bằng lái<i class="fa"></i></th>
+            <th style="width: 20%">ID người sở hữu<i class="fa"></i></th>
+            <th style="width: 20%">Mã bằng lái<i class="fa"></i></th>
+            <th style="width: 15%">Ngày cấp<i class="fa"></i></th>
+            <th style="width: 15%">Hạn sử dụng<i class="fa"></i></th>
+            <th style="width: 15%">Thao Tác</th>
+        </tr>
+    </table>
+    <div class="table-content">
+        <table class="table-outline">
+            @foreach (var banglai in Model.BangLaiVM.DanhSachBangLai)
+            {
+            <tr>
+            <td style="width: 15%">@banglai.BangLaiID<i class="fa"></i></td>
+            <td style="width: 20%">@banglai.NguoiDieuKhienID<i class="fa"></i></td>
+            <td style="width: 20%">@banglai.MaBangLai<i class="fa"></i></td>
+            <td style="width: 15%">@banglai.NgayCap<i class="fa"></i></td>
+            <td style="width: 15%">@banglai.HanSuDung<i class="fa"></i></td>
+            <td style="width: 15%">
+                <a asp-page="Delete" class="btn btn-info" asp-route-id="@banglai.BangLaiID">Delete</a>
+                <a asp-page="Edit" class="btn btn-info" asp-route-id="@banglai.BangLaiID">Edit</a>
+            </td>
+            </tr>
+            }
+        </table>
+        @{
+    var preDisabled = !Model.BangLaiVM.DanhSachBangLai.HasPrevious ? "disabled" : "";
+    var nextDisabled = !Model.BangLaiVM.DanhSachBangLai.HasNext ? "disabled" : "";
+}
+<div class="container">
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.BangLaiVM.DanhSachBangLai.PageIndex - 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @preDisabled">Trước</a>
+    @for(int i=1;i<=@Model.BangLaiVM.DanhSachBangLai.TotalPages;i++)
+    {
+        <a  asp-page="Index" 
+        asp-route-pageIndex="@i" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default">@i</a>
+    }
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.BangLaiVM.DanhSachBangLai.PageIndex + 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @nextDisabled">Sau</a>
+</div>
+        </div>
+        </div>
+ </form>
+
+    }
+}

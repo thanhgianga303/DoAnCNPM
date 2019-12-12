@@ -1,0 +1,24 @@
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Documents\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\CongNghePhanMem\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\thanh\OneDrive\Máy tính\DoAnCNPM--Test\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb

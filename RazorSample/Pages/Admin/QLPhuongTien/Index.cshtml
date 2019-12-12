@@ -1,0 +1,96 @@
+@page
+@using Microsoft.AspNetCore.Http
+@model IndexModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    var session=@HttpContext.Session.GetString("Role");
+    if(session=="1")
+    {
+        <h1>Bạn không đủ quyền để truy cập</h1>
+    }
+    else
+    {
+    <h1>Quản lý phương tiện</h1>
+<form method="get">
+                <p>
+                    Lựa chọn: 
+                    <select asp-for="Genre">
+                        <option value="All">Tất cả</option>
+                        <option value="CaVet">Cà vẹt</option>
+                        <option value="BKS">Biển kiểm soát</option>   
+                    </select>
+                    Nhập thông tin: 
+                    <input type="text"  asp-for="SearchString"/>
+                    <input type="submit" value="Tìm kiếm"/>
+                </p>
+</form>
+    
+<form method="post">
+    <div class="vipham">
+    <div class="form-row" style="padding:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <a asp-page="Create" class="btn btn-info" style="color:black" >Tạo mới</a>
+            </div>
+            <div class="col-md-3"></div>
+    </div>
+    <table class="table-header">
+        <tr>
+            <!-- Theo độ rộng của table content -->
+            <th style="width: 10%">ID phương tiện<i class="fa"></i></th>
+            <th style="width: 25%">ID thể loại phương tiện<i class="fa"></i></th>
+            <th style="width: 10%">Cà vẹt xe<i class="fa"></i></th>
+            <th style="width: 40%">Biển kiểm soát<i class="fa"></i></th>
+            <th style="width: 15%">Thao Tác</th>
+        </tr>
+    </table>
+    <div class="table-content">
+        <table class="table-outline">
+            @foreach (var phuongtien in Model.PhuongTienVM.DanhSachPhuongTien)
+            {
+            <tr>
+            <td style="width: 10%">@phuongtien.PhuongTienID<i class="fa"></i></td>
+            <td style="width: 25%">@phuongtien.TheLoaiPhuongTienID<i class="fa"></i></td>
+            <td style="width: 10%">@phuongtien.CaVet<i class="fa"></i></td>
+            <td style="width: 40%">@phuongtien.BKS<i class="fa"></i></td>
+            <td style="width: 15%">
+                <a asp-page="Delete" class="btn btn-info" asp-route-id="@phuongtien.PhuongTienID">Delete</a>
+                <a asp-page="Edit" class="btn btn-info" asp-route-id="@phuongtien.PhuongTienID">Edit</a>
+            </td>
+            </tr>
+            }
+        </table>
+        @{
+    var preDisabled = !Model.PhuongTienVM.DanhSachPhuongTien.HasPrevious ? "disabled" : "";
+    var nextDisabled = !Model.PhuongTienVM.DanhSachPhuongTien.HasNext ? "disabled" : "";
+}
+<div class="container">
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.PhuongTienVM.DanhSachPhuongTien.PageIndex - 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @preDisabled">Previous</a>
+    @for(int i=1;i<=@Model.PhuongTienVM.DanhSachPhuongTien.TotalPages;i++)
+    {
+        <a  asp-page="Index" 
+        asp-route-pageIndex="@i" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default">@i</a>
+    }
+    <a  asp-page="Index" 
+        asp-route-pageIndex="@(Model.PhuongTienVM.DanhSachPhuongTien.PageIndex + 1)" 
+        asp-route-searchString="@Model.SearchString"
+        asp-route-genre="@Model.Genre"
+        class="btn btn-default @nextDisabled">Next</a>
+</div>
+        </div>
+        </div>
+ </form>
+    }
+    }
+
+
+        

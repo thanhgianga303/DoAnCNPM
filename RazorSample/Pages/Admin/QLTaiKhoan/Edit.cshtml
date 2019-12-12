@@ -1,0 +1,65 @@
+@page "{id:int}"
+@model EditModel
+@{
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Edit cấp cậc";
+}
+
+<h2>Edit cấp bậc</h2>
+
+<form method="post">
+<div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Sửa tài khoản(ID: @Model.TaiKhoan.TaiKhoanID)</h2></label>
+            </div> 
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID:</label>
+                <input type="text" disabled class="form-control" asp-for="TaiKhoan.TaiKhoanID" />
+                <span asp-validation-for="TaiKhoan.TaiKhoanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã quyền:</label>
+                <input type="text" disabled class="form-control" asp-for="TaiKhoan.TrangThai" />
+                <span asp-validation-for="TaiKhoan.TrangThai"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên tài khoản:</label>
+                <input type="text" class="form-control" asp-for="TaiKhoan.TenTaiKhoan" />
+                <span asp-validation-for="TaiKhoan.TenTaiKhoan"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mật khẩu:</label>
+                <input type="text" class="form-control" asp-for="TaiKhoan.MatKhau" />
+                <span asp-validation-for="TaiKhoan.MatKhau"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" asp-route-id="TaiKhoan.TaiKhoanID" value="Sửa"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

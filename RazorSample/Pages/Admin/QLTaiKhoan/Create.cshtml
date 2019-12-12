@@ -1,0 +1,72 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+@{
+ViewData["Title"] = "Create cấp bậc";
+}
+<form method="post">
+<div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Tạo mới tài khoản</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID tài khoản:</label>
+                <input type="number" class="form-control" asp-for="TaiKhoan.TaiKhoanID" />
+                <span asp-validation-for="TaiKhoan.TaiKhoanID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã quyền:</label>
+                <input type="number" class="form-control" asp-for="TaiKhoan.QuyenID" />
+                <span asp-validation-for="TaiKhoan.QuyenID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên tài khoản:</label>
+                <input type="text" class="form-control" asp-for="TaiKhoan.TenTaiKhoan" />
+                <span style="color:red" asp-validation-for="TaiKhoan.TenTaiKhoan">@ViewData["Error"]</span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mật khẩu:</label>
+                <input type="text" class="form-control" asp-for="TaiKhoan.MatKhau" />
+                <span asp-validation-for="TaiKhoan.MatKhau"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Trạng thái:</label>
+                <input type="text" class="form-control" asp-for="TaiKhoan.TrangThai" />
+                <span asp-validation-for="TaiKhoan.TrangThai"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>        
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>

@@ -1,0 +1,50 @@
+@page
+@model CreateModel
+@{
+    Layout="~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+<form method="post">
+    <div class="form-group">
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <label><h2>Tạo mới thể loại phương tiện</h2></label>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>ID thể loại:</label>
+                <input type="number" class="form-control" asp-for="TheLoaiPhuongTien.TheLoaiPhuongTienID">
+                <span asp-validation-for="TheLoaiPhuongTien.TheLoaiPhuongTienID"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Mã thể loại:</label>
+                <input type="text" class="form-control" asp-for="TheLoaiPhuongTien.MaTheLoai">
+                <span asp-validation-for="TheLoaiPhuongTien.MaTheLoai"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <label>Tên thể loại:</label>
+                <input type="text" class="form-control" asp-for="TheLoaiPhuongTien.TenTheLoai">
+                <span asp-validation-for="TheLoaiPhuongTien.TenTheLoai"></span>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="form-row" style="margin-top:10px">
+            <div class="col-md-3"></div>
+            <div class="col-md-6" style="text-align:center">
+                <input type="submit" class="btn btn-info" value="Thêm"/>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+</div>
+</form>
